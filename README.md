@@ -1,4 +1,4 @@
 # Troubleshooter
 
 ## Build Status
-![Docker Image](https://github.com/alegradi/troubleshooter/blob/master/.github/workflows/docker-image.yml/badge.svg)
+![Docker Image](https://github.com/alegradi/troubleshooter/actions/workflows/docker-image.yml/badge.svg)
